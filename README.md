@@ -63,6 +63,13 @@ SuperSlicer's Filament Settings tab.
 
 Print and system settings are not included.
 
+## PrusaSlicer profile
+
+[`prusaslicer/Prusai3_MK3S_PrusaSlicer_PolyTerra.ini`](prusaslicer/Prusai3_MK3S_PrusaSlicer_PolyTerra.ini)
+is a full PrusaSlicer 2.1 config (printer, print and filament) for Polymaker PolyTerra PLA on an
+Original Prusa i3 MK3S, saved in March 2021: 0.4 mm nozzle, 220 / 210 °C, bed 50 °C. Load it with
+File > Import > Import Config. Kept as a PolyTerra starting point; it is not tuned for the Ender.
+
 ## Licence
 
 Released under The Unlicense. See [`LICENSE`](LICENSE).
